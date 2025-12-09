@@ -94,6 +94,7 @@ PROGRAM FOR FULLSUBTRACTOR:
  Developed by:MONISHWAR K  RegisterNumber:25014914
 
 **RTL Schematic**
+
 1)FULLADDER
 
 <img width="939" height="481" alt="Screenshot 2025-12-09 215433" src="https://github.com/user-attachments/assets/295e08a5-ae25-454c-aea0-6bc073146dec" />
@@ -103,17 +104,21 @@ PROGRAM FOR FULLSUBTRACTOR:
 <img width="936" height="485" alt="Screenshot 2025-12-09 215446" src="https://github.com/user-attachments/assets/e25982c3-9c91-473c-aeec-68469912f9c3" />
 
 
+
 **Output Timing Waveform**
 
 1)FULL ADDER
 
 <img width="932" height="483" alt="Screenshot 2025-12-09 215552" src="https://github.com/user-attachments/assets/687eb879-a8e5-40f6-a7f2-847011ec8812" />
 
+
 2)FULL SUBTRACTOR
 
 <img width="930" height="477" alt="Screenshot 2025-12-09 215605" src="https://github.com/user-attachments/assets/2d03524e-a6a6-41f7-a5ef-d9b8579162f1" />
 
+
 **Result:**
+
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
