@@ -64,31 +64,31 @@ Borrow out = A'Bin + A'B + BBin
 
 PROGRAM FOR FULLADDER:
 
-module fa(a,b,cin,sum,carry);
+    module fa(a,b,cin,sum,carry);
 
-input a,b,cin;
+    input a,b,cin;
 
-output sum,carry;
+    output sum,carry;
 
-assign sum=( (a ^ b)^cin);
+    assign sum=( (a ^ b)^cin);
 
-assign carry= ( (a & b)| ( cin &(a ^ b )));
+    assign carry= ( (a & b)| ( cin &(a ^ b )));
 
-endmodule
+    endmodule
 
 PROGRAM FOR FULLSUBTRACTOR:
 
-module fs(a,b,bin,difference,borrow);
+    module fs(a,b,bin,difference,borrow);
 
-input a,b,bin;
+    input a,b,bin;
 
-output difference,borrow;
+    output difference,borrow;
 
-assign difference= ( (a ^ b)^bin);
+    assign difference= ( (a ^ b)^bin);
 
-assign borrow= ( ( a & b)| ( bin & ((a ^ b ))));
+    assign borrow= ( ( a & b)| ( bin & ((a ^ b ))));
 
-endmodule
+    endmodule
 
 
  Developed by:MONISHWAR K  RegisterNumber:25014914
