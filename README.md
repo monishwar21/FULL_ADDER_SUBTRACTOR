@@ -39,7 +39,7 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 1) TRUTH TABLE FOR FULL ADDER
  
-<img width="278" height="181" alt="FULLADD" src="https://github.com/user-attachments/assets/c63a6088-2b2a-42fb-938b-c23e13010cf9" />
+<img width="606" height="330" alt="FULLADD" src="https://github.com/user-attachments/assets/c63a6088-2b2a-42fb-938b-c23e13010cf9" />
 
 
 2)TRUTH TABLE FOR SUBTRACTOR
